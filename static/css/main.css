@@ -1,0 +1,35 @@
+.nav-logo img {
+    height: 200px;
+    width: 500px;
+}
+.header {
+    
+    display: flex;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+.navlinks-container {
+    display: flex;
+    flex: 50%;
+    align-items: center;
+
+    justify-content: space-around;
+}
+.nav-link {
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-family: ;
+    color: rgb(61, 63, 48);
+    
+}
+.order-container {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-around;
+}
